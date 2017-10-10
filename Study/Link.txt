@@ -1,2 +1,9 @@
 Link
-1. Cross validation: https://www.youtube.com/watch?v=sFO2ff-gTh0
+/1. Cross validation1: https://www.youtube.com/watch?v=sFO2ff-gTh0
+2. Cross validation2: https://www.youtube.com/watch?v=e0JcXMzhtdY&t=209
+		      https://www.youtube.com/watch?v=CmEqvD_ov2o
+3. Gradient Boosting: https://www.youtube.com/watch?v=sRktKszFmSk
+4. Ensemble 1 - 4: https://www.youtube.com/watch?v=Yvn3--rIdZg
+5. Decision tree: https://www.youtube.com/watch?v=DCZ3tsQIoGU
+6. Random forest: https://www.youtube.com/watch?v=D_2LkhMJcfY
+7. Support Vector Machine (SVM): https://www.youtube.com/watch?v=Y6RRHw9uN9o
